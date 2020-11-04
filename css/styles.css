@@ -1,0 +1,107 @@
+body{
+  margin : 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f6f5f1;
+}
+.contact-desc{
+  width: 50%;
+  margin : 40px auto 60px;
+}
+hr{
+  border-style: dotted none none;
+  border-width: 8px;
+  width: 70px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  color:  #66BFBF;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.525rem; 16px = 1em = 100%
+}
+h2{
+  color:  #66BFBF;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem; 16px = 1em = 100%
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+.top-cloud{
+  position: absolute;
+  right : 30%;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom : 300px;
+}
+.skills{
+  padding-bottom: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: justify;
+}
+p{
+    line-height: 2;
+}
+.project-image{
+  width: 25%;
+  margin-right: 30px;
+  padding: 25px 0;
+  float: left;
+}
+.wings-image{
+  width: 30%;
+  float: right;
+}
+.btn{
+  border : solid #11999E 2px;
+  border-radius: 10px;
+  padding: 6px;
+  text-decoration: none;
+  margin: 20px 20px;
+  background-color: #11999E;
+  color: white;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+}
+.btn:hover{
+  border : solid #30e3cb 2px;
+  background-color: #30e3cb;
+  text-decoration: none;
+}
+.bottom-container{
+  padding: 50px 0 20px;
+  background-color: #66BFBF;
+}
+a{
+  display: inline-block;
+  text-align: center;
+  text-decoration: none;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 20px 10px;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.contact-me{
+  padding: 100px;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.8rem;
+}
+.profile {
+  padding: 60px;
+}
